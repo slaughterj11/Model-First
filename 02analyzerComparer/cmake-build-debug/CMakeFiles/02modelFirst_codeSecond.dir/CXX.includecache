@@ -1,0 +1,52 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/chris/Library/Mobile Documents/com~apple~CloudDocs/School/cs1440/myCode/02analyzerComparer/Analyst.cpp
+fstream
+-
+string
+-
+Analyst.h
+/Users/chris/Library/Mobile Documents/com~apple~CloudDocs/School/cs1440/myCode/02analyzerComparer/Analyst.h
+
+/Users/chris/Library/Mobile Documents/com~apple~CloudDocs/School/cs1440/myCode/02analyzerComparer/Analyst.h
+vector
+-
+
+/Users/chris/Library/Mobile Documents/com~apple~CloudDocs/School/cs1440/myCode/02analyzerComparer/Functions.cpp
+iostream
+-
+iomanip
+-
+sstream
+-
+Analyst.h
+/Users/chris/Library/Mobile Documents/com~apple~CloudDocs/School/cs1440/myCode/02analyzerComparer/Analyst.h
+
+/Users/chris/Library/Mobile Documents/com~apple~CloudDocs/School/cs1440/myCode/02analyzerComparer/Functions.h
+vector
+-
+sstream
+-
+Analyst.h
+/Users/chris/Library/Mobile Documents/com~apple~CloudDocs/School/cs1440/myCode/02analyzerComparer/Analyst.h
+
+/Users/chris/Library/Mobile Documents/com~apple~CloudDocs/School/cs1440/myCode/02analyzerComparer/main.cpp
+iostream
+-
+vector
+-
+fstream
+-
+sstream
+-
+Analyst.h
+/Users/chris/Library/Mobile Documents/com~apple~CloudDocs/School/cs1440/myCode/02analyzerComparer/Analyst.h
+Functions.h
+/Users/chris/Library/Mobile Documents/com~apple~CloudDocs/School/cs1440/myCode/02analyzerComparer/Functions.h
+

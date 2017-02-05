@@ -1,0 +1,16 @@
+Analyst Comparison
+
+Investors
+---------
+#1: Mary G. Richardson
+#2: Tammy R. Samuelson
+#3: Samuel J Larsen
+
+Overall Perfomance
+------------------
+               |    #1    |    #2    |    #3    
+---------------|----------|----------|----------
+D (days)       |          |          |          
+Seed Amount($) |         1|         2|         3
+TPL ($)        |         1|         2|         3
+PLPD ($/day)   |         1|         2|         3
